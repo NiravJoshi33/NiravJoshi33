@@ -6,7 +6,7 @@ Full-stack and AI engineer. Before software, I spent five years as a mechanical 
 
 ## Now
 
-- [Fineprint](https://github.com/NiravJoshi33/fineprint-engine): a RAG engine over Indian health insurance policy wordings. Answers cite the clause, and say so when the policy is silent. In progress.
+- [Fineprint](https://github.com/NiravJoshi33/fineprint-engine): a RAG engine over Indian health insurance policy wordings. Answers cite the clause, and say so when the policy is silent. Runs on AWS Lambda, deployed with Terraform, and every change is scored against its own eval set.
 
 ## Projects
 
